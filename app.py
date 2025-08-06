@@ -12,7 +12,7 @@ dummy_module = types.ModuleType("torch.classes")
 dummy_module.__path__ = []
 sys.modules["torch.classes"] = dummy_module
 
-from utils import analyze_invoice_image, pdf_to_images
+from backend.utils import analyze_invoice_image, pdf_to_images
 
 load_dotenv()
 
