@@ -1,0 +1,7 @@
+streamlit
+openai
+Pillow
+opencv-python
+python-dotenv
+langchain
+langchain-openai

@@ -1,0 +1,11 @@
+*.env
+__pycache__
+big_data
+big_data_images
+big_data_stamps
+crops
+data
+labelImg
+logs
+segment-anything
+stamp2vec
