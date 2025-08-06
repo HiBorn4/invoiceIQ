@@ -2,11 +2,6 @@
 
 ![Invoice Upload UI](./public/Selection_001.png)
 
-
-
-https://github.com/user-attachments/assets/3c9cdbfc-f0f0-422c-83ac-b047b23a81b6
-
-
 ---
 
 ## 🧠 Project Overview
@@ -59,7 +54,7 @@ The backend provides:
 
 ⬇️ *(Demo coming soon here)*
 
-<!-- Leave space for embedded video/gif -->
+https://github.com/user-attachments/assets/3c9cdbfc-f0f0-422c-83ac-b047b23a81b6
 
 ---
 
